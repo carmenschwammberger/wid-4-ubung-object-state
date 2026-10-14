@@ -8,7 +8,7 @@ export default function App() {
 
   return (
     <div id="app">
-      <header>Übung WID 4 - Object State </header>
+      <header>Übung WID 4 -Object State </header>
       <h4>Lieferung an</h4>
       <div id="adressEingabe">
         <div className="container">
